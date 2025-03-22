@@ -1,6 +1,6 @@
 # Project_Web_Scraping
-Web Scraping Data Hotel di Bandung
-📖 Deskripsi
+Web Scraping Data Hotel di Bandung\
+📖 Deskripsi\
 Proyek ini bertujuan untuk mengumpulkan data hotel di Bandung dari Traveloka menggunakan Selenium dan BeautifulSoup. Data yang diambil meliputi:
 1. Nama hotel
 2. Alamat
